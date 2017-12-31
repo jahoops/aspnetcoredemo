@@ -1,7 +1,18 @@
-﻿@{
+﻿@model IEnumerable<aspnetcoredemo.SQLite.Blog>
+
+@{
     ViewData["Title"] = "About";
 }
+
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewData["Message"]</h3>
 
-<p>Use this area to provide additional information.</p>
+<p>Use this area to provide additional information. @ViewData["blogcount"]</p>
+<ul>
+
+@foreach (var row in Model)    
+{    
+    <li>@(row.BlogId + " " + row.Url)</li>
+}  
+
+</ul>
