@@ -1,0 +1,12 @@
+/home/mint/source/dotnetcore/aspnetcoredemo
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=aspnetcoredemo
+--content-root=/home/mint/source/dotnetcore/aspnetcoredemo
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Home/About.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Home/Contact.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Home/Index.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Shared/Error.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Shared/_Layout.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/_ViewImports.cshtml
+--file=/home/mint/source/dotnetcore/aspnetcoredemo/Views/_ViewStart.cshtml

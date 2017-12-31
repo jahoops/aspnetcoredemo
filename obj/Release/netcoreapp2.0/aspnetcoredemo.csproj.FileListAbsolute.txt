@@ -1,0 +1,10 @@
+/home/mint/source/dotnetcore/aspnetcoredemo/bin/Release/netcoreapp2.0/aspnetcoredemo.deps.json
+/home/mint/source/dotnetcore/aspnetcoredemo/bin/Release/netcoreapp2.0/aspnetcoredemo.runtimeconfig.json
+/home/mint/source/dotnetcore/aspnetcoredemo/bin/Release/netcoreapp2.0/aspnetcoredemo.runtimeconfig.dev.json
+/home/mint/source/dotnetcore/aspnetcoredemo/bin/Release/netcoreapp2.0/aspnetcoredemo.dll
+/home/mint/source/dotnetcore/aspnetcoredemo/bin/Release/netcoreapp2.0/aspnetcoredemo.pdb
+/home/mint/source/dotnetcore/aspnetcoredemo/obj/Release/netcoreapp2.0/aspnetcoredemo.csproj.CoreCompileInputs.cache
+/home/mint/source/dotnetcore/aspnetcoredemo/obj/Release/netcoreapp2.0/aspnetcoredemo.AssemblyInfoInputs.cache
+/home/mint/source/dotnetcore/aspnetcoredemo/obj/Release/netcoreapp2.0/aspnetcoredemo.AssemblyInfo.cs
+/home/mint/source/dotnetcore/aspnetcoredemo/obj/Release/netcoreapp2.0/aspnetcoredemo.dll
+/home/mint/source/dotnetcore/aspnetcoredemo/obj/Release/netcoreapp2.0/aspnetcoredemo.pdb
